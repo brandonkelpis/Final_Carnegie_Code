@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
-sys.path.append(".../cusp-encounters/adiabatic-tides")
+sys.path.append(".../cusp_encounters/adiabatic-tides")
 sys.path.append(".../adiabatic-tides/")
 import adiabatic_tides as at
 import cusp_encounters.encounters_math as em
